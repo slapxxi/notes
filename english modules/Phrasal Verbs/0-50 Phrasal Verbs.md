@@ -11,7 +11,6 @@ Here’s a list of 50 phrasal verbs sorted by popularity and categorized into di
 7. **Put on** – _Put on your shoes before going outside._
 8. **Take off** – _Please take off your shoes when entering the house._
 9. **Hang up** – _I need to hang up my coat._
-    
 
 ### **Work & Study**
 
@@ -70,4 +69,4 @@ Here’s a list of 50 phrasal verbs sorted by popularity and categorized into di
 - Start using these phrasal verbs in **everyday conversations**. For example, when you’re talking about your daily routine, try to use _wake up_, _get up_, and _sit down_.
 - **Combine phrasal verbs** within a conversation. For example, _“I woke up early, got up quickly, and turned off the alarm right away.”_
 - Use **context-based practice** to make them sound natural. Practice with different tenses and people (like friends or colleagues).
-    
+

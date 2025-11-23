@@ -8,13 +8,13 @@ Adverbial clauses of **manner** describe **how** an action is performed. These c
 
 These conjunctions are used to introduce adverbial clauses of manner:
 
-|**Conjunction**|**Example Sentence**|
-|---|---|
-|**As**|_He did the work **as** instructed._|
-|**Like**|_She dances **like** a professional._|
-|**As if**|_He looked at me **as if** he knew me._|
-|**As though**|_She spoke **as though** she had been there before._|
-|**In the way that**|_She solved the problem **in the way that** her teacher showed her._|
+| **Conjunction**     | **Example Sentence**                                                 |
+| ------------------- | -------------------------------------------------------------------- |
+| **As**              | _He did the work **as** instructed._                                 |
+| **Like**            | _She dances **like** a professional._                                |
+| **As if**           | _He looked at me **as if** he knew me._                              |
+| **As though**       | _She spoke **as though** she had been there before._                 |
+| **In the way that** | _She solved the problem **in the way that** her teacher showed her._ |
 
 ---
 
@@ -35,24 +35,19 @@ These conjunctions are used to introduce adverbial clauses of manner:
 ### **A. Describing How an Action Was Done**
 
 - **"She explained the problem **as** clearly as possible."**
-    
 - **"He worked on the project **in the way that** he had been trained."**
-    
 
 ### **B. Comparing How Actions Are Performed**
 
 - **"He sings **like** a professional."**
-    
 - **"She solved the issue **as though** it were a puzzle."**
-    
 
 ### **C. Describing Imagined or Hypothetical Ways of Doing Something**
 
 - **"He looked at me **as if** I had done something wrong."**
-    
 - **"She acted **as though** nothing had happened."**
-    
 
 ---
 
 Would you like to practice creating your own sentences with these clauses to prepare for your interview?
+

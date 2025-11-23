@@ -10,26 +10,20 @@ In English, **new information** typically appears toward the end of the sentence
 **Example:**
 
 - _I bought a new car yesterday._  
-    ("I" and "bought" are given, while "a new car" and "yesterday" are new information.)
-    
+   ("I" and "bought" are given, while "a new car" and "yesterday" are new information.)
 
 ### 2. **Topic and Comment Structure**
 
 Every sentence in English has a **topic** (what the sentence is about) and a **comment** (what is being said about the topic).
 
 - The **topic** usually appears at the beginning of the sentence, and it is often something that has already been mentioned or is generally known.
-    
 - The **comment** is what the speaker says about the topic and can contain new or important information.
-    
 
 **Example:**
 
 - _The weather is really nice today._
-    
-    - **Topic**: "The weather" (what the sentence is about)
-        
-    - **Comment**: "is really nice today" (what is being said about the weather)
-        
+  - **Topic**: "The weather" (what the sentence is about)
+  - **Comment**: "is really nice today" (what is being said about the weather)
 
 ### 3. **Focus**
 
@@ -38,11 +32,9 @@ Every sentence in English has a **topic** (what the sentence is about) and a **c
 **Example:**
 
 - _I didn’t say **John** stole the money._  
-    (The focus is on **John**, which implies that someone else might have stolen the money, not John.)
-    
+   (The focus is on **John**, which implies that someone else might have stolen the money, not John.)
 - _I **didn’t** say John stole the money._  
-    (The focus is on the negation "didn't," implying that something else was said.)
-    
+   (The focus is on the negation "didn't," implying that something else was said.)
 
 ### 4. **Cleft Sentences**
 
@@ -51,9 +43,7 @@ A **cleft sentence** is a structure used to focus attention on a particular part
 **Example:**
 
 - **It was John** who stole the money. (Focus on John.)
-    
 - **What I need** is a vacation. (Focus on what is needed.)
-    
 
 ### 5. **Topicalization**
 
@@ -62,8 +52,7 @@ A **cleft sentence** is a structure used to focus attention on a particular part
 **Example:**
 
 - _That book, I really liked it._  
-    ("That book" is fronted to emphasize it as the main topic of the sentence.)
-    
+   ("That book" is fronted to emphasize it as the main topic of the sentence.)
 
 ### 6. **Word Order for Emphasis**
 
@@ -72,11 +61,9 @@ In English, **word order** plays a crucial role in information structure. The ty
 **Example:**
 
 - _I gave him the book._  
-    (Standard word order, with "I" as the subject, "gave" as the verb, and "him the book" as the object.)
-    
+   (Standard word order, with "I" as the subject, "gave" as the verb, and "him the book" as the object.)
 - _The book, I gave it to him._  
-    (Emphasizing the book by fronting it.)
-    
+   (Emphasizing the book by fronting it.)
 
 ### 7. **Contrastive Stress**
 
@@ -85,50 +72,39 @@ When there is a need to highlight **contrast**, speakers use **contrastive stres
 **Example:**
 
 - _I want **coffee**, not tea._  
-    (Stress on "coffee" emphasizes the contrast with tea.)
-    
+   (Stress on "coffee" emphasizes the contrast with tea.)
 - _She went to **London**, not Paris._  
-    (Stress on "London" contrasts with "Paris.")
-    
+   (Stress on "London" contrasts with "Paris.")
 
 ### 8. **Focus with Questions**
 
 In **wh-questions**, the question word typically signals the **focus** of the inquiry. For example:
 
 - _What did you buy?_  
-    ("What" is the focus, meaning the speaker wants to know specifically what was bought.)
-    
+   ("What" is the focus, meaning the speaker wants to know specifically what was bought.)
 
 In **yes/no questions**, the focus is often on the verb or the auxiliary verb:
 
 - _Did you buy a new car?_  
-    (Focus on the action of buying.)
-    
+   (Focus on the action of buying.)
 
 ### 9. **Dislocation and Left/Right Dislocation**
 
 **Dislocation** refers to a construction where an element is moved to the beginning or end of the sentence, often for emphasis or clarity.
 
 - **Left Dislocation**: A phrase or topic is fronted, often followed by a clause.
-    
-    - _The book, I haven’t read it yet._
-        
+  - _The book, I haven’t read it yet._
 - **Right Dislocation**: An element appears at the end of the sentence, often separated by commas.
-    
-    - _I haven’t read the book, yet._
-        
+  - _I haven’t read the book, yet._
 
 ---
 
 ### Key Takeaways for Effective Use of Information Structure:
 
 1. **Organize information logically**, with old/given information at the beginning and new information toward the end.
-    
 2. Use **focus** to highlight important parts of your message, especially with stress, cleft sentences, or topicalization.
-    
 3. Understand the **role of word order** and **contrastive stress** to add emphasis and clarity.
-    
 4. Practice **dislocation** (shifting elements around) to make speech flow more naturally and emphasize key points.
-    
 
 By applying these strategies, your speech can become more fluent, organized, and native-like, making it easier to convey ideas in a clear and engaging way.
+

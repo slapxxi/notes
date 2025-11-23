@@ -1,30 +1,31 @@
-advanced *ədˈvænst*
-really *ˈriːəli*
-talisman *ˈtælɪzmən*
-preface *ˈprefəs*
-pathetic *pəˈθetɪk*
-roller *ˈrəʊlər*
-sheathe *ʃiːð*
-similar *ˈsɪmələr*
-return *rɪˈtɜːrn*
-farther *ˈfɑːrðər*
-purpose *ˈpɜːrpəs*
-analysis *əˈnæləsɪs*
-albeit *ˌɔːlˈbiːɪt*
-valley *ˈvæli*
-ultimate *ˈʌltɪmət*
-course *kɔːrs*
-exercise *ˈeksərsaɪz*
-pretty *ˈprɪti*
-however *haʊˈevər*
-despite *dɪˈspaɪt*
-although *ɔːlˈðəʊ*
+advanced _ədˈvænst_
+really _ˈriːəli_
+talisman _ˈtælɪzmən_
+preface _ˈprefəs_
+pathetic _pəˈθetɪk_
+roller _ˈrəʊlər_
+sheathe _ʃiːð_
+similar _ˈsɪmələr_
+return _rɪˈtɜːrn_
+farther _ˈfɑːrðər_
+purpose _ˈpɜːrpəs_
+analysis _əˈnæləsɪs_
+albeit _ˌɔːlˈbiːɪt_
+valley _ˈvæli_
+ultimate _ˈʌltɪmət_
+course _kɔːrs_
+exercise _ˈeksərsaɪz_
+pretty _ˈprɪti_
+however _haʊˈevər_
+despite _dɪˈspaɪt_
+although _ɔːlˈðəʊ_
 
 #### Functional
-for *fər*
-of *əv* (*ʌv*)
-on *ɑːn*
-onto *ˈɑːntə* (*ˈɑːntu*)
+
+for _fər_
+of _əv_ (_ʌv_)
+on _ɑːn_
+onto _ˈɑːntə_ (_ˈɑːntu_)
 
 ![[Pasted image 20240514054847.png]]
 ![[Pasted image 20240514054635.png]]
@@ -35,10 +36,9 @@ onto *ˈɑːntə* (*ˈɑːntu*)
 ![[Pasted image 20240514031111.png]]
 ![[Pasted image 20240514030955.png]]
 
-
 ### Homonyms
 
 peek, peak
-pick 
+pick
 
 steel, steal

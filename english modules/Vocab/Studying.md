@@ -11,15 +11,15 @@ When discussing your studies, you may need to mention where and what you are stu
 #### **Key Phrases:**
 
 - _I study [subject] at [institution]._  
-    _(I study engineering at Oxford University.)_
+   _(I study engineering at Oxford University.)_
 - _I’m majoring in [subject]._ _(for university students)_  
-    _(I’m majoring in computer science.)_
+   _(I’m majoring in computer science.)_
 - _I’m taking a course in [subject]._  
-    _(I’m taking a course in psychology.)_
+   _(I’m taking a course in psychology.)_
 - _I’m in my [first/second/third/final] year._  
-    _(I’m in my second year of law school.)_
+   _(I’m in my second year of law school.)_
 - _I graduated from [institution] with a degree in [subject]._  
-    _(I graduated from Harvard with a degree in economics.)_
+   _(I graduated from Harvard with a degree in economics.)_
 
 #### **Common Questions:**
 
@@ -78,24 +78,16 @@ University and college students often discuss their experiences.
 #### **Key Phrases:**
 
 - _I live in a dormitory on campus._
-    
 - _I share an apartment with two other students._
-    
 - _I’m involved in several student clubs._
-    
 - _My university has a great student life._
-    
 - _The workload is tough, but I enjoy my classes._
-    
 
 #### **Common Questions:**
 
 - _What’s university life like for you?_
-    
 - _Do you live on campus or off-campus?_
-    
 - _Are you in any clubs or organizations?_
-    
 
 ---
 
@@ -106,22 +98,15 @@ With online education becoming more popular, people also discuss learning outsid
 #### **Key Phrases:**
 
 - _I’m taking an online course in web development._
-    
 - _I study English by watching YouTube videos and reading books._
-    
 - _I’m learning Spanish through a language app._
-    
 - _I prefer self-study because I can learn at my own pace._
-    
 
 #### **Common Questions:**
 
 - _Have you ever taken an online course?_
-    
 - _Do you prefer traditional classes or online learning?_
-    
 - _How do you practice learning new skills?_
-    
 
 ---
 
@@ -132,20 +117,15 @@ Using idiomatic expressions makes conversations about studying more natural.
 #### **Idioms and Expressions:**
 
 - _Hit the books_ – start studying seriously  
-    _(I need to hit the books tonight because I have a test tomorrow.)_
-    
+   _(I need to hit the books tonight because I have a test tomorrow.)_
 - _Burn the midnight oil_ – study or work late at night  
-    _(She burned the midnight oil to finish her research paper.)_
-    
+   _(She burned the midnight oil to finish her research paper.)_
 - _Ace a test_ – do very well on an exam  
-    _(I studied hard and aced my biology test!)_
-    
+   _(I studied hard and aced my biology test!)_
 - _Cram for an exam_ – study a lot in a short period of time  
-    _(I didn’t prepare earlier, so I have to cram for my math exam.)_
-    
+   _(I didn’t prepare earlier, so I have to cram for my math exam.)_
 - _Learn by heart_ – memorize something completely  
-    _(I had to learn all the vocabulary by heart for the quiz.)_
-    
+   _(I had to learn all the vocabulary by heart for the quiz.)_
 
 ---
 
@@ -165,7 +145,6 @@ Students often talk about their plans for further studies or careers.
 - _What are your plans after graduation?_
 - _Are you planning to continue your studies?_
 - _Do you want to study abroad?_
-    
 
 ---
 
@@ -174,19 +153,15 @@ Students often talk about their plans for further studies or careers.
 Here are some useful phrasal verbs commonly used in discussions about studying:
 
 - **Catch up on** – study something you missed  
-    _(I missed class yesterday, so I need to catch up on my notes.)_
+   _(I missed class yesterday, so I need to catch up on my notes.)_
 - **Go over** – review something  
-    _(I went over my notes before the test.)_
-    
+   _(I went over my notes before the test.)_
 - **Hand in** – submit an assignment  
-    _(I need to hand in my essay by Friday.)_
-    
+   _(I need to hand in my essay by Friday.)_
 - **Keep up with** – stay at the same level as others  
-    _(It’s hard to keep up with all the assignments.)_
-    
+   _(It’s hard to keep up with all the assignments.)_
 - **Drop out** – quit school or a course  
-    _(He dropped out of college after the first year.)_
-    
+   _(He dropped out of college after the first year.)_
 
 ---
 
@@ -303,3 +278,4 @@ Here are several dialogues covering different aspects of studying, including dis
 ---
 
 These dialogues cover different aspects of studying, making them useful for conversations in various situations. Let me know if you need more examples or specific scenarios!
+

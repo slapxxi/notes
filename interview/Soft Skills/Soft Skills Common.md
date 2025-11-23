@@ -1,4 +1,4 @@
-**Q: How do you rate yourself from 0 to 10?**  **Q: How do you rate yourself from 0 to 10?**  
+**Q: How do you rate yourself from 0 to 10?** **Q: How do you rate yourself from 0 to 10?**  
 I’d say around **7.5 to 8**. I’m confident in React, TypeScript, and front-end architecture, but I leave room for growth because I’m always learning and improving.
 
 **Q: How do you upgrade/improve your skills?**  

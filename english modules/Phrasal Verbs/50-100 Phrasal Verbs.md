@@ -70,4 +70,3 @@ Here’s another list of 50 phrasal verbs, grouped into different categories for
 - **Use in sentences:** Try to use these phrasal verbs in daily conversations. For example, _"I ran into an old friend while shopping"_ or _"She always looks up to her mentor."_
 - **Combine them with other structures:** Use different tenses to get more comfortable. For example, _"I will pick up the tickets tomorrow"_ or _"He has been putting up with a lot lately."_
 - **Practice with someone else:** Try practicing with a conversation partner who can help you spot opportunities to use phrasal verbs naturally.
-    

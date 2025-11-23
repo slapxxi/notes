@@ -5,23 +5,23 @@
 ### **1–10: Общие и универсальные идиомы**
 
 1. **Break a leg** – Ни пуха ни пера  
-    _"You have an interview tomorrow? Break a leg!"_
+   _"You have an interview tomorrow? Break a leg!"_
 2. **Hit the nail on the head** – Попасть в точку  
-    _"You hit the nail on the head with your analysis."_
+   _"You hit the nail on the head with your analysis."_
 3. **Piece of cake** – Легко, проще простого  
-    _"That test was a piece of cake!"_
+   _"That test was a piece of cake!"_
 4. **Spill the beans** – Разболтать секрет  
-    _"Who spilled the beans about my surprise party?"_
+   _"Who spilled the beans about my surprise party?"_
 5. **Let the cat out of the bag** – Выдать секрет  
-    _"I accidentally let the cat out of the bag about the promotion."_
+   _"I accidentally let the cat out of the bag about the promotion."_
 6. **Once in a blue moon** – Крайне редко  
-    _"I eat fast food once in a blue moon."_
+   _"I eat fast food once in a blue moon."_
 7. **Under the weather** – Плохо себя чувствовать  
-    _"I won’t come to work today; I’m feeling under the weather."_
+   _"I won’t come to work today; I’m feeling under the weather."_
 8. **Burn the midnight oil** – Работать допоздна  
-    _"We had to burn the midnight oil to finish the project."_
+   _"We had to burn the midnight oil to finish the project."_
 9. **Cost an arm and a leg** – Очень дорого  
-    _"That new laptop costs an arm and a leg!"_
+   _"That new laptop costs an arm and a leg!"_
 10. **Bite the bullet** – Стиснуть зубы и сделать что-то сложное  
     _"I hate dentist visits, but I have to bite the bullet and go."_
 
@@ -128,3 +128,4 @@
 ---
 
 Этот список поможет вам понимать разговорный английский и звучать более естественно. Хотите потренироваться в использовании этих идиом? 😊
+

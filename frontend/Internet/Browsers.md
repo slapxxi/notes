@@ -1,4 +1,4 @@
-	TTFB - time to first byte
+    TTFB - time to first byte
 
 ## Navigation
 
@@ -13,6 +13,7 @@ Once we have an established connection to a web server, the browser sends an ini
 This response for this initial request contains the first byte of data received. [Time to First Byte](https://developer.mozilla.org/en-US/docs/Glossary/Time_to_first_byte) (TTFB) is the time between when the user made the request — say by clicking on a link — and the receipt of this first packet of HTML. The first chunk of content is usually 14KB of data.
 
 TCP packets are split into segments during transmission. Because TCP guarantees the sequence of packets, the server must receive an acknowledgment from the client in the form of an ACK packet after sending a certain number of segments.
+
 ## Parsing
 
 [Parsing](https://developer.mozilla.org/en-US/docs/Glossary/Parse) is the step the browser takes to turn the data it receives over the network into the [DOM](https://developer.mozilla.org/en-US/docs/Glossary/DOM) and [CSSOM](https://developer.mozilla.org/en-US/docs/Glossary/CSSOM), which is used by the renderer to paint a page to the screen.
@@ -22,9 +23,11 @@ Even if the requested page's HTML is larger than **the initial 14KB packet**, th
 ### Building the DOM Tree
 
 **The first step is processing the HTML markup and building the DOM tree**. HTML parsing involves **[tokenization](https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList) and tree construction**. HTML tokens include start and end tags, as well as attribute names and values. If the document is well-formed, parsing it is straightforward and faster. The parser parses tokenized input into the document, building up the document tree.
+
 ### Preload Scanner
 
-While the browser builds the DOM tree, this process occupies the main thread. As this happens, **the _preload scanner_ will parse through the content available and request high-priority resources** like CSS, JavaScript, and web fonts. Thanks to the preload scanner, we don't have to wait until the parser finds a reference to an external resource to request it. It will retrieve resources in the background so that by the time the main HTML parser reaches the requested assets, they may already be in flight or have been downloaded. The optimizations the preload scanner provides reduce blockages.
+While the browser builds the DOM tree, this process occupies the main thread. As this happens, **the *preload scanner* will parse through the content available and request high-priority resources** like CSS, JavaScript, and web fonts. Thanks to the preload scanner, we don't have to wait until the parser finds a reference to an external resource to request it. It will retrieve resources in the background so that by the time the main HTML parser reaches the requested assets, they may already be in flight or have been downloaded. The optimizations the preload scanner provides reduce blockages.
+
 ### Building CSSOM Tree
 
 The second step in the critical rendering path is **processing CSS and building the CSSOM tree**. The CSS object model is similar to the DOM. The DOM and CSSOM are both trees. They are independent data structures. The browser converts the CSS rules into a map of styles it can understand and work with. The browser goes through each rule set in the CSS, creating a tree of nodes with parent, child, and sibling relationships based on the CSS selectors.
@@ -51,11 +54,11 @@ Each visible node has its CSSOM rules applied to it. The render tree holds all t
 
 ### Layout
 
-_Layout_ is the process by which **the dimensions and location of all the nodes in the render tree are determined, plus the determination of the size and position of each object on the page**. **_Reflow_** is any subsequent size and position determination of any part of the page or the entire document.
+*Layout* is the process by which **the dimensions and location of all the nodes in the render tree are determined, plus the determination of the size and position of each object on the page**. **_Reflow_** is any subsequent size and position determination of any part of the page or the entire document.
 
 Once the render tree is built, layout commences. **The render tree identified which nodes are displayed (even if invisible) along with their computed styles, but not the dimensions or location of each node**. To determine the exact size and position of each object, the browser starts at the root of the render tree and traverses it.
 
-The first time the size and position of each node is determined is called _layout_. Subsequent recalculations of are called **_reflows_**. In our example, suppose the initial layout occurs before the image is returned. Since we didn't declare the dimensions of our image, there will be a reflow once the image dimensions are known.
+The first time the size and position of each node is determined is called *layout*. Subsequent recalculations of are called **_reflows_**. In our example, suppose the initial layout occurs before the image is returned. Since we didn't declare the dimensions of our image, there will be a reflow once the image dimensions are known.
 
 ### Paint
 
@@ -78,3 +81,4 @@ As the page continues to load assets, **reflows can happen** (recall our example
 Once the main thread is done painting the page, you would think we would be "all set." That isn't necessarily the case. If the load includes JavaScript, that was correctly deferred, and only executed after the [`onload`](https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event) event fires, **the main thread might be busy**, and not available for scrolling, touch, and other interactions.
 
 [Time to Interactive](https://developer.mozilla.org/en-US/docs/Glossary/Time_to_interactive) (TTI) is the measurement of how long it took from that first request which led to the DNS lookup and TCP connection to when the page is interactive — interactive being the point in time after the [First Contentful Paint](https://developer.mozilla.org/en-US/docs/Glossary/First_contentful_paint) when the page responds to user interactions within 50ms. **If the main thread is occupied parsing, compiling, and executing JavaScript**, it is not available and therefore not able to respond to user interactions in a timely (less than 50ms) fashion.
+

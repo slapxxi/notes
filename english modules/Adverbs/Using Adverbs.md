@@ -22,7 +22,6 @@ These help explain when something happens.
 
 - **Example**: _I usually drink coffee in the morning._
 - **Practice**: Mention your daily routine using time adverbs. For example, "I wake up early every day" or "I will visit you soon."
-    
 
 ### 4. **Describe Places with Adverbs of Place**
 
@@ -30,7 +29,6 @@ These adverbs tell us where something happens.
 
 - **Example**: _We met there at the park._
 - **Practice**: Use adverbs to describe locations. For example, "I’ll put the book here" or "They went everywhere looking for a solution."
-    
 
 ### 5. **Practice Adverbs of Degree for Emphasis**
 
@@ -38,7 +36,6 @@ These adverbs modify how strong or weak something is.
 
 - **Example**: _She is very tired after the workout._
 - **Practice**: Use degree adverbs in your sentences. For example, "I’m not quite ready yet" or "This test is too hard."
-    
 
 ### 6. **Experiment with Adverbs in Questions**
 
@@ -46,7 +43,6 @@ Create questions using adverbs to describe actions.
 
 - **Example**: _Why did you speak so loudly in the meeting?_
 - **Practice**: Ask questions like "When do you usually get up?" or "Why are you speaking so fast?"
-    
 
 ### 7. **Combine Multiple Adverbs**
 

@@ -52,3 +52,4 @@ Here’s a list of 50 **adverbs of degree** (describing **to what extent** somet
 50. **Adequately** – _The team performed adequately during the game._
 
 These adverbs of degree modify the intensity of an action or quality. Would you like to try creating sentences using any of these adverbs?
+

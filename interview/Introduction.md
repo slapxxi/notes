@@ -18,10 +18,11 @@ The goal of the project was to provide a centralized system where users could bu
 
 I worked in a team of 3 — including two frontend devs , and a team lead. We followed a a simplified version of Agile with two-week sprints, weeklies and pull request reviews.
 
-The tech stack included React, TypeScript,  Tanstack Router for routing, React Query for data fetching, and Tailwind CSS with MUI** for styling. For testing, we used **Jest and React Testing Library.
+The tech stack included React, TypeScript, Tanstack Router for routing, React Query for data fetching, and Tailwind CSS with MUI** for styling. For testing, we used **Jest and React Testing Library.
 
 My responsibilities involved discussing and building core features, collaborating with a fellow frontend developer, ensuring code quality through reviews and tests .
 
-Some of the key features I delivered included the **skills, languages and cv management modules**,  where users could create and edit multiple CVs with different set of parameters/projects.
+Some of the key features I delivered included the **skills, languages and cv management modules**, where users could create and edit multiple CVs with different set of parameters/projects.
 
 As a result, the application streamlined the CV creation process, gave users flexibility to maintain role-specific versions, and provided HR teams with a more structured way to evaluate candidate profiles.
+

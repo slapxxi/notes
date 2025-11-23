@@ -16,7 +16,7 @@
 
 ### IP & DNS
 
--  IP - internet protocol
+- IP - internet protocol
 - DNS - domain name system
 
 ### Packets, Routing, Reliability
@@ -45,7 +45,6 @@ Three way handshake. TCP connections begin with a three-way handshake in which t
 
 For secure connections established over HTTPS, another "handshake" is required. This handshake, or rather the [TLS](https://developer.mozilla.org/en-US/docs/Glossary/TLS) negotiation, determines which cipher will be used to encrypt the communication, verifies the server, and establishes that a secure connection is in place before beginning the actual transfer of data. This requires five more round trips to the server before the request for content is actually sent.
 
-
 ### Encryption and Public Keys
 
 - encryption/decryption
@@ -56,3 +55,4 @@ For secure connections established over HTTPS, another "handshake" is required. 
 - public and private keys are used
 - public key is used to encrypt data and everybody can use it to encrypt data
 - the secret can only be decrypted by the computer with the private key
+

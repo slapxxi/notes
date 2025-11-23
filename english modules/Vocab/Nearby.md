@@ -6,6 +6,7 @@
 4. **Within walking distance** – _The grocery store is within walking distance of my house._
 5. **Close at hand** – _I keep my phone close at hand in case of emergencies._
 6. **Down the road** – _The museum is just down the road._
+
 ### **Idioms**
 
 1. **Around the corner** – _The library is just around the corner._

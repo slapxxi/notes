@@ -1,5 +1,3 @@
-
-
 ### # Celeste Headlee: 10 ways to have a better conversation | TED
 
 We're less likely to compromise, which means we're not listening to each other and...
@@ -14,3 +12,4 @@ There's a really good reason I don't allow **pundits** on my show - because they
 After years of struggle, I finally benched three plates. This is gonna be the video I wish I watched years ago when I stuck around 225.
 
 Next, **move on** to shoulder presses using dumbbells or machine for sets of six to ten. After that, go to...
+

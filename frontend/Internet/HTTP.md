@@ -20,6 +20,7 @@ Slow responses in HTTP 1.1 can block other resources from loading.
 - Server Push - Multiple responses for single request
 - Request Prioritization
 - Security
+
 ### Headers
 
 ### Methods
@@ -31,3 +32,4 @@ Slow responses in HTTP 1.1 can block other resources from loading.
 - delete
 - patch
 - options
+

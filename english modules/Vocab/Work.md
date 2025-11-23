@@ -57,7 +57,6 @@ Describing the timing and structure of work:
 - **Night shift** – _She works the night shift at the hospital._
 - **Flexible schedule** – _I have a flexible schedule, so I can come in late if needed._
 - **Part-time hours** – _She’s working part-time hours this semester._
-    
 
 ### **5. Work Environment and Workplace**
 
@@ -73,7 +72,6 @@ Terms used to talk about the place where you work and the atmosphere:
 - **Retail store** – _She works in a retail store as a cashier._
 - **Restaurant** – _I work at a restaurant as a server._
 - **Laboratory** – _He works in a laboratory conducting experiments._
-    
 
 ### **6. Phrasal Verbs Related to Work**
 
@@ -89,7 +87,6 @@ Common phrasal verbs used in the workplace:
 - **Set up** – _She’s setting up the new office in the building._
 - **Get ahead** – _He’s working hard to get ahead in his career._
 - **Pitch in** – _Everyone pitched in to help with the fundraising event._
-    
 
 ### **7. Discussing Work-Related Achievements and Progress**
 
@@ -117,7 +114,6 @@ Skills and attributes related to work:
 - **Adaptability** – _Her adaptability helped her succeed in the new position._
 - **Creativity** – _Creativity is encouraged in the design department._
 - **Organizational skills** – _Her organizational skills keep the office running smoothly._
-    
 
 ### **9. Job-Related Problems and Challenges**
 
@@ -130,7 +126,6 @@ Discussing challenges or difficulties at work:
 - **Work overload** – _She’s dealing with a work overload at the moment._
 - **Unproductive** – _The meeting was unproductive and went off-topic._
 - **Lack of motivation** – _Some employees are struggling with a lack of motivation._
-    
 
 ### **10. Work-Related Slang/Colloquial Terms**
 
@@ -235,3 +230,4 @@ Here are a few dialogue examples covering different aspects of talking about wor
 ---
 
 These dialogues cover a range of topics related to work, including job titles, responsibilities, work environment, challenges, and job satisfaction. They reflect everyday conversations and showcase how work-related terms are used in context. Would you like more examples or explanations on any specific topic?
+

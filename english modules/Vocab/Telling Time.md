@@ -28,7 +28,6 @@
 8. **Time is of the essence** – _We need to act quickly; time is of the essence._
 9. **Pressing for time** – _Sorry, I’m pressing for time and can't stay longer._
 10. **A matter of time** – _It’s only a matter of time before he finds out._
-    
 
 ### **Phrasal Verbs**
 
@@ -49,14 +48,12 @@
 5. **In the nick of time** – _He arrived in the nick of time to catch the train._
 6. **In a while** – _I’ll call you in a while._
 7. **Right on time** – _She arrived right on time for the meeting._
-    
 
 ### **Military and 24-hour Time**
 
 1. **Zero hundred hours (00:00)** – _The flight departs at zero hundred hours._
 2. **Nineteen hundred hours (19:00)** – _The event starts at nineteen hundred hours._
 3. **Twenty-one hundred hours (21:00)** – _The show begins at twenty-one hundred hours._
-    
 
 ### **Expressions for Time Intervals**
 
@@ -67,7 +64,6 @@
 5. **In a heartbeat** – _I’d do it in a heartbeat if I had the chance._
 6. **At times** – _At times, I feel overwhelmed by the workload._
 7. **On the dot** – _He arrived at 3 o'clock on the dot._
-    
 
 ### **Time-Related Slang/Colloquial Phrases**
 
@@ -76,4 +72,3 @@
 3. **Early bird** – _She’s an early bird and wakes up at 5 AM._
 4. **Night owl** – _He’s a night owl and stays up until late._
 5. **Crack of dawn** – _We left at the crack of dawn to avoid traffic._
-    

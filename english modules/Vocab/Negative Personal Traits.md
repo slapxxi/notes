@@ -1,4 +1,4 @@
-I guess I could be a bit arrogant sometimes but I quickly compose myself. A bit critical sometimes too. I maybe demanding I'm not really sure to be honest. I can be moody but it passes quickly as well. I also can be distractible easily. 
+I guess I could be a bit arrogant sometimes but I quickly compose myself. A bit critical sometimes too. I maybe demanding I'm not really sure to be honest. I can be moody but it passes quickly as well. I also can be distractible easily.
 
 1. **Aggressive** – _He often reacts with hostility in disagreements._
 2. **Aloof** – _She keeps her distance and avoids social interaction._

@@ -5,25 +5,15 @@ Talking about nationality in English involves using specific terms, phrases, and
 Nationalities are typically used as nouns to describe a person's origin or citizenship. They are often capitalized. Here are some examples:
 
 - **American** (from the United States)
-    
 - **Canadian** (from Canada)
-    
 - **Mexican** (from Mexico)
-    
 - **British** (from the United Kingdom)
-    
 - **German** (from Germany)
-    
 - **French** (from France)
-    
 - **Chinese** (from China)
-    
 - **Indian** (from India)
-    
 - **Japanese** (from Japan)
-    
 - **Brazilian** (from Brazil)
-    
 
 ### **2. Nationality as Adjectives**
 
@@ -53,7 +43,6 @@ To inquire about someone's nationality, you can ask:
 - _Where are you from?_
 - _Where do you come from?_
 - _What country are you from?_
-    
 
 These are all common ways to ask about someone's nationality. The most direct way is to use **"What’s your nationality?"** while the other forms are more conversational or informal.
 
@@ -63,7 +52,6 @@ In some contexts, **nationality** refers to a person’s connection to a country
 
 - _My nationality is Mexican, but my citizenship is American._
 - _She has dual nationality: French and Italian._
-    
 
 ### **6. Nationalities and Their Endings**
 
@@ -83,7 +71,6 @@ Many nationalities are formed by adding a specific suffix to the name of the cou
 - **"My family is from..."** – _My family is from Poland._
 - **"I have (insert nationality) heritage."** – _I have Irish heritage._
 - **"I hold (insert nationality) citizenship."** – _I hold British citizenship._
-    
 
 ### **8. Nationality and Ethnicity**
 
@@ -91,7 +78,6 @@ Sometimes, nationality refers to ethnic origin rather than just the country of l
 
 - _I’m ethnically Indian, but I have American citizenship._
 - _He’s of Italian descent, but he was born in Canada._
-    
 
 ### **9. Use of "Native" or "Native of"**
 
@@ -107,7 +93,6 @@ Some people hold dual or multiple nationalities, and English has terms to descri
 
 - **Dual nationality**: _He holds dual nationality—Brazilian and American._
 - **Multiple nationalities**: _She has multiple nationalities—German, Canadian, and French._
-    
 
 ### **11. Using "Foreign" in Context**
 
@@ -115,7 +100,6 @@ The term **foreign** refers to things that come from another country or are rela
 
 - _I’m learning a foreign language._
 - _Foreign nationals cannot enter the country without a visa._
-    
 
 ---
 
@@ -235,3 +219,4 @@ Here are some examples of dialogues about nationality, where people discuss thei
 ---
 
 These dialogues demonstrate how nationality can come up in different contexts, from casual conversations to professional settings, highlighting the diversity of ways people talk about their background. Let me know if you’d like more examples or have any specific scenarios in mind!
+

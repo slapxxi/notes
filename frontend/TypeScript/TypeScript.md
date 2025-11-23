@@ -1,9 +1,10 @@
 - Convert tuple to union with `[number]`
 - Get length of a tuple with `['length']`
+
 #### Building Blocks for Types Programming
 
 - Generics
-	- Conditional Types
+  - Conditional Types
 - Mapped Types
 - Indexing (including special `number` indexing)
 - Recursion
@@ -11,11 +12,10 @@
 - Merging `[...value]`
 - `typeof`, `keyof`
 
-
 #### Conditional Types
 
 ```ts
-type A<T> = T extends string ? true : false
+type A<T> = T extends string ? true : false;
 ```
 
 #### Mapped Types
@@ -30,7 +30,7 @@ type CreateMutable<Type> = {
 };
 
 type Getters<Type> = {
-  [Property in keyof Type as `get${Capitalize<string & Property>}`]: () => Type[Property]
+  [Property in keyof Type as `get${Capitalize<string & Property>}`]: () => Type[Property];
 };
 
 type ExtractPII<Type> = {
@@ -39,9 +39,10 @@ type ExtractPII<Type> = {
 ```
 
 You can filter out keys by producing `never` via a conditional type:
+
 ```ts
 type RemoveKindField<Type> = {
-  [Property in keyof Type as Exclude<Property, "kind">]: Type[Property]
+  [Property in keyof Type as Exclude<Property, 'kind'>]: Type[Property];
 };
 ```
 
@@ -49,17 +50,17 @@ type RemoveKindField<Type> = {
 
 ```ts
 const MyArray = [
-  { name: "Alice", age: 15 },
-  { name: "Bob", age: 23 },
-  { name: "Eve", age: 38 },
+  { name: 'Alice', age: 15 },
+  { name: 'Bob', age: 23 },
+  { name: 'Eve', age: 38 },
 ];
-type Person = typeof MyArray[number];
+type Person = (typeof MyArray)[number];
 ```
 
 #### Tuples
 
 ```ts
-type Length<T extends readonly any[]> = T["length"];
+type Length<T extends readonly any[]> = T['length'];
 ```
 
 ```ts
@@ -74,19 +75,24 @@ When you are writing the construct `T extends U` where `T` is the union, act
 
 ```ts
 type MyExclude<T, U> = T extends U ? never : T;
-type T1 = MyExclude<"a" | "b" | "c", "a" | "b">;
+type T1 = MyExclude<'a' | 'b' | 'c', 'a' | 'b'>;
 ```
+
 #### Variadic Tuple Types
 
 ```ts
 type Concat<T, U> = [...T, ...U];
 ```
+
 ```ts
 type Concat<T extends unknown[], U extends unknown[]> = [...T, ...U];
 ```
+
 #### Infer
 
-Recursive inference: 
+Recursive inference:
+
 ```ts
 type Awaited<T> = T extends Promise<infer R> ? Awaited<R> : T;
 ```
+

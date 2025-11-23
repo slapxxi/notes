@@ -9,3 +9,4 @@
 **Q: How do you handle optional and readonly properties in TypeScript?**
 
 > You can mark them with `?` for optional and `readonly` to prevent reassignment. This improves both clarity and safety in your type definitions.
+

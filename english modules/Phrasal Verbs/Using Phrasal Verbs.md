@@ -62,7 +62,6 @@ Be sure to practice phrasal verbs in various tenses (past, present, future) to g
 - _Present:_ "I **pick up** my friend every day."
 - _Past:_ "I **picked up** my friend yesterday."
 - _Future:_ "I will **pick up** my friend tomorrow."
-    
 
 ### 8. **Start with Simple Sentences**
 
@@ -92,3 +91,4 @@ Record your conversations or short monologues where you try to use as many phras
 Just like any other skill, incorporating phrasal verbs into your speaking takes time and consistency. Make it a habit to include at least one or two phrasal verbs in each conversation.
 
 By following these steps, you'll gradually become more confident using phrasal verbs naturally in your conversations. Would you like me to help you practice with some examples or create specific situations for practicing phrasal verbs?
+

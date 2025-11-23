@@ -82,9 +82,9 @@ Here’s a list of 50 adverbs of time (describing **when** something happens) al
 80. **All the time** – _She talks on the phone all the time._
 81. **Soon enough** – _He’ll understand soon enough._
 82. **From time to time** – _I like to take a break from time to time._
-    
 
-These adverbs of time help provide context about when actions occur. Would you like to try creating some sentences with them?   
+These adverbs of time help provide context about when actions occur. Would you like to try creating some sentences with them?
+
 1. **Once** – _Once you finish your work, we can go out._
 2. **Twice** – _She’s been to Paris twice._
 3. **Three times** – _I’ve called him three times already._
@@ -103,4 +103,3 @@ These adverbs of time help provide context about when actions occur. Would you l
 16. **All the time** – _She talks on the phone all the time._
 17. **Soon enough** – _He’ll understand soon enough._
 18. **From time to time** – _I like to take a break from time to time._
-    

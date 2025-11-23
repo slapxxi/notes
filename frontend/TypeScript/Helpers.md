@@ -23,3 +23,4 @@
 - Lowercase
 - Capitalize
 - Uncapitalize
+
